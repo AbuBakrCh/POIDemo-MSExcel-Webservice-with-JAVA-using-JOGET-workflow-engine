@@ -12,3 +12,6 @@ In this webservice, I am doing:
 8. Format cells by setting borders, background colors, background pattern and fixed width.
 9. Save this excel file in Byte Output Stream.
 10. Send this stream in HTTPSERVLET response.
+
+Output PDF of generated Excel file:
+![alt text](https://drive.google.com/open?id=1P6CBr5fw2SWzK97MutbJThGAHjt_cV0j)
