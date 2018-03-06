@@ -14,4 +14,4 @@ In this webservice, I am doing:
 10. Send this stream in HTTPSERVLET response.
 
 Output PDF of generated Excel file:
-![Screenshot](POI Demo PDF print.PNG)
+![Screenshot](POIDemo-Webservice-with-JAVA-using-JOGET-workflow-engine/Images/POI_Demo_PDF_print.PNG)
